@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I am Duck. A full-stack engineer focusing on React and Spring Boot.
-
+![](https://komarev.com/ghpvc/?username=iamDuckduck)
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:simonchungcck42@gmail.com) 
